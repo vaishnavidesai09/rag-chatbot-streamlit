@@ -18,7 +18,7 @@ This is a **Retrieval-Augmented Generation (RAG) chatbot** built using **Streaml
 
 ### **1️⃣ Clone the Repository**  
 ```sh
-git clone https://github.com/yourusername/rag-chatbot-streamlit.git  
+git clone https://github.com/vaishnavidesai09/rag-chatbot-streamlit.git
 cd rag-chatbot-streamlit
 ```
 
@@ -41,7 +41,7 @@ GROQ_API_KEY=your_groq_api_key_here
 
 ### **5️⃣ Run the Chatbot**  
 ```sh
-streamlit run phase1.py
+streamlit run main.py
 ```
 
 ---
